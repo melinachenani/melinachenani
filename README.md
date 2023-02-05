@@ -9,5 +9,5 @@ I've been learning to code for some time now and honestly it's the best thing I'
 *   📚  I have a B.A in English Literature
 *   🧠  I'm learning JavaScript
 *   ⚡  My next step is React
-*   🌍  I'm based in Iran
+*   🌍  I'm based in khuzestan, Iran
 *   ✉️  You can contact me at [melina.ch98@gmail.com](mailto:melina.ch98@gmail.com)
