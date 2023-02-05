@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Melina Chenani
+======================================================================================================================================
 
-<!--
-**melinachenani/melinachenani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+--------
 
-Here are some ideas to get you started:
+I've been learning to code for some time now and honestly it's the best thing I've ever done in my entire life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   📚  I have a B.A in English Literature
+*   🧠  I'm learning JavaScript
+*   ⚡  My next step is React
+*   🌍  I'm based in Iran
+*   ✉️  You can contact me at [melina.ch98@gmail.com](mailto:melina.ch98@gmail.com)
