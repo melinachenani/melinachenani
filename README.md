@@ -19,6 +19,7 @@ I've been learning to code for some time now and honestly it's the best thing I'
 
 <br>
 <br>
+<br>
 
 
 ### Skills
