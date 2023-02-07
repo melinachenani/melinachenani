@@ -1,6 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Melina Chenani
 ======================================================================================================================================
 
+<img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
+
+<br>
+<br>
+
 About me
 --------
 
@@ -11,6 +16,10 @@ I've been learning to code for some time now and honestly it's the best thing I'
 *   ⚡  My next step is React
 *   🌍  I'm based in khuzestan, Iran
 *   ✉️  You can contact me at [melina.ch98@gmail.com](mailto:melina.ch98@gmail.com)
+
+<br>
+<br>
+
 
 ### Skills
 
