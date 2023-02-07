@@ -29,6 +29,10 @@ I've been learning to code for some time now and honestly it's the best thing I'
 <p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a></p>
 
 
+### My GitHub Stats
+
+<a href="http://www.github.com/melinachenani"><img src="https://github-readme-stats.vercel.app/api?username=melinachenani&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="melinachenani's GitHub stats" /></a>
+
 
 
 
