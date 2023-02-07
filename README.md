@@ -5,6 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <br>
 <br>
+<br>
 
 About me
 --------
@@ -17,6 +18,7 @@ I've been learning to code for some time now and honestly it's the best thing I'
 *   🌍  I'm based in khuzestan, Iran
 *   ✉️  You can contact me at [melina.ch98@gmail.com](mailto:melina.ch98@gmail.com)
 
+<br>
 <br>
 <br>
 <br>
