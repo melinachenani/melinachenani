@@ -43,7 +43,7 @@ I've been learning to code for some time now and honestly it's the best thing I'
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/melinachenani"><img src="https://github-readme-stats.vercel.app/api?username=melinachenani&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="melinachenani's GitHub stats" /></a>
+<a href="http://www.github.com/melinachenani"><img src="https://github-readme-stats.vercel.app/api?username=melinachenani&showicons=true&hide=&count_private=true&title_color=ec4899&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="melinachenani's GitHub stats" /></a>
 
 <a href="http://www.github.com/melinachenani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=melinachenani&stroke=000000&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=000000&currStreakLabel=ec4899&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
