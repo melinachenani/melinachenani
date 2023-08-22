@@ -13,8 +13,8 @@ About me
 I've been learning to code for some time now and honestly it's the best thing I've ever done in my entire life.
 
 *   📚  I have a B.A in English Literature
-*   🧠  I'm learning React
-*   ⚡  My next step is Redux
+*   🧠  I'm learning Redux
+*   ⚡  My next step is Tailwind
 *   🌍  I'm based in khuzestan, Iran
 *   ✉️  You can contact me at [melina.ch98@gmail.com](mailto:melina.ch98@gmail.com)
 
@@ -33,6 +33,7 @@ I've been learning to code for some time now and honestly it's the best thing I'
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> 
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 </P>
 
 
